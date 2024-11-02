@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bibexaliyy
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer engineering and software engineering
+- 👀 I’m interested in Ml/AI
+- 🌱 I’m currently learning data sicience at ArewaDS Academy
 - 💞️ I’m looking to collaborate on coding in any form
 - 📫 How to reach me hisah075@gmail.com
 <!---
